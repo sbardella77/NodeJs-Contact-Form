@@ -1,0 +1,12 @@
+{
+  "name": "submit_form",
+  "version": "1.0.0",
+  "description": "NodeJs Submit Form",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Patrizio Sbardella",
+  "license": "MIT"
+}
